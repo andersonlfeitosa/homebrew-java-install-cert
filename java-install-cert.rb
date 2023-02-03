@@ -6,7 +6,7 @@ class JavaInstallCert < Formula
   homepage "https://github.com/andersonlfeitosa/java-install-cert"
   url "https://raw.githubusercontent.com/andersonlfeitosa/homebrew-java-install-cert/master/java-install-cert-dist.zip"
   version "1.0"
-  sha256 "80b41795b37a1a938b49562e60132f7642293bb8b8840c9d328f3ae48bf783c0"
+  sha256 "c7ebe7774052dd1e45b99bda8ba280bb234109fb7f33e445d1424519903bb7c9"
   license ""
 
   # depends_on "cmake" => :build
